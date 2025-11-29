@@ -6,7 +6,7 @@
 ## Simple User Dashboard with Dynamic Routes
 
 - This repo contains a simple User Dashboard with Dynamic Routes.
-- [components](src/components) contains the main code.
+- [components](src/components) and [pages](src/pages) contains the main code.
 - Run:
 
 ```sh
